@@ -1,0 +1,8 @@
+Each TCM formula needs to have an independent sparse result matrix
+such as
+m1.csv -> Symtom
+m2.csv -> Herb
+m3.csv -> Compound
+m4.csv -> Gene
+m5.csv -> Pathway
+m6.csv -> Function
